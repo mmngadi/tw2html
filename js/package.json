@@ -1,0 +1,16 @@
+{
+  "name": "jscssir",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "build-ir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "culori": "^4.0.2"
+  }
+}
